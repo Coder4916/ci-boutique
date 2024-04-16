@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-coder4916-ciboutique-opm0olupavg.ws-eu110.gitpod.io']
 
-
 # Application definition
 
 INSTALLED_APPS = [
